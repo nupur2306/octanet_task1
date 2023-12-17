@@ -1,0 +1,176 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(lightpink,rgba(255, 255, 255, 0));
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+#first
+{
+    width: 80%;
+    margin: auto;
+}
+#first div p
+{
+    color:black;
+    font-size: 40px;
+    margin-left: 33%;
+}
+#first hr
+{
+    margin-bottom: 1rem;
+    width: 50%;
+}
+
+#fphoto
+{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;   
+}
+#first img
+{
+    height: 30%;
+    width: 30%;
+    border: 1px solid white;
+}
+#first button
+{
+    color: gray;
+    background-color: white;
+    border: 1px solid white;
+    font-size: 20px;
+    padding: 0.5rem 2.5rem;
+    margin-top: 1rem;
+    margin-left: 43%;
+}
+#hr
+{
+    margin-top: 2rem;
+    padding: 0.1rem;
+    background-color: white;
+}
+#second
+{
+    width: 80%;
+    margin: auto;
+}
+#second h1
+{
+    color: black;
+    font-size: 40px;
+    margin-left: 33%;
+}
+#second #div1
+{
+    width: 100%;
+    display: flex;
+}
+#img1
+{
+    width: 50%;
+}
+#img2
+{
+    width: 50%;
+}
+#img1 img
+{
+    width: 90%;
+    height: 50vh;
+    border: 1px solid white;
+}
+#img2 img
+{
+    width: 90%;
+    height: 50vh;
+    border: 1px solid white;
+}
+#div1 p
+{
+    font-size: 25px;
+    margin-left: 30%;
+}
+span
+{
+    font-size: 20px;
+    color: gray;
+    margin-left: 2rem;
+}
+#third
+{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+#news h1
+{
+    color: black;
+    font-size: 30px;
+}
+#news p
+{
+    color: black;
+    font-size: 20px;
+}
+#input
+{
+    display: flex;
+    gap: 1.5rem;
+}
+input
+{
+    padding: 0.5rem 6rem 0.5rem 1rem;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#input button
+{
+    color: gray;
+    background-color: pink;
+    border: 1px solid black;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+#last
+{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    gap: 2rem;
+    justify-content:space-between;
+    margin-top: 2rem;
+}
+#sec1
+{
+    width: 100%;
+}
+#sec1 img
+{
+    width: 100%;
+    height: 80vh;
+    border: 1px solid white;
+}
+#sec2
+{
+    width: 100%;
+}
+#sec2 img
+{
+    width: 100%;
+    height: 38.5vh;
+    border: 1px solid white;
+}
+#sec3
+{
+    width: 100%;
+}
+#sec3 img
+{
+    width: 100%;
+    height: 38.5vh;
+    border: 1px solid white;
+}
